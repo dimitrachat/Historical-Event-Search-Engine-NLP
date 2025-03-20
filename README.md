@@ -1,5 +1,5 @@
 # Historical-Event-Search-Engine-NLP
-A search engine for historical events, leveraging web scraping, Natural Language Processing (NLP), and advanced techniques like Word2Vec, BERT, LLMs, and RAG systems. The project focuses on extracting, analyzing, and retrieving relevant information from Wikipedia to provide insights into historical events.
+
 ## Overview
 This project creates a search engine for historical events by scraping data from Wikipedia and applying advanced NLP techniques like Word2Vec, BERT, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems. The goal is to provide accurate and context-aware insights into historical events.
 ## Introduction
